@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics, Case Western Reserve University, 2018
+* B.A. in Cognitive Science, Case Western Reserve University, 2018
+* Ph.D in Computer Science, University of Colorado Boulder, 2023 (expected)
 
 Work experience
 ======
