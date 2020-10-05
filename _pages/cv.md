@@ -15,26 +15,14 @@ Education
 * B.A. in Cognitive Science, Case Western Reserve University, 2018
 * Ph.D in Computer Science, University of Colorado Boulder, 2023 (expected)
 
-Work experience
+Research Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Graduate Research Assistant
+  * Fall 2018 - Present
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Undergraduate Researcher
+  * Summer 2018
+  * REU at Florida Institute of Technology
 
 Publications
 ======
@@ -48,12 +36,19 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
+Service and Leadership
+======
+* Computer Science Graduate Student Association
+  * Department representative to graduate student government (Fall 2018 - Spring 2019)
+  * Graduate student representative on department graduate committee (Fall 2019 - Spring 2020)
+  * Vice Chair (Spring 2020 - Fall 2020)
+* Graduate and Professional Student Government
+  * Department representative (Fall 2018 - Spring 2019)
+  * Graduate Senator to CU Student Government (Fall 2018 - Spring 2019)
+  * Director of Communications (Fall 2019 - Present)
+  
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
