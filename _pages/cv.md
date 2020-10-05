@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Mathematics, Case Western Reserve University, 2018
 * B.A. in Cognitive Science, Case Western Reserve University, 2018
-* Ph.D in Computer Science, University of Colorado Boulder, 2023 (expected)
+* Ph.D. in Computer Science, University of Colorado Boulder, 2023 (expected)
 
 Research Experience
 ======
