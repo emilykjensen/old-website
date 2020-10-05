@@ -1,14 +1,11 @@
 ---
-title: Evolutionary Optimization of Cooperative Strategies for the Iterated Prisoner’s Dilemma
+title: Toward Automated Feedback on Teacher Discourse to Enhance Teacher Learning
 collection: publications
 permalink: /publication/tog-coop-ipd
-date: 2020-07-21
-venue: IEEE Transactions on Games
+date: 2020-04-25
+venue: CHI 2020 Conference
 citation: Jessica Finocchiaro, H. David Mathias. (2020). &quot;Evolutionary Optimization of Cooperative Strategies for the Iterated Prisoner’s Dilemma&quot;
 ---
-Abstract: Abstract—The Iterated Prisoner’s Dilemma (IPD) has been studied in fields as diverse as economics, computer science, psychology, politics, and environmental studies. This is due, in part, to the intriguing property that its Nash Equilibrium is not globally optimal. Typically treated as a single-objective problem, a player’s goal is to maximize their own score. In some work, minimizing the opponent’s score is an additional objective.  Here, we explore the role of explicitly optimizing for mutual cooperation in IPD player performance. We implement a genetic algorithm in which each member of the population evolves using one of four multi-objective fitness functions: selfish, communal, cooperative, and selfless, the last three of which use a cooperative
-
-metric as an objective. As a control, we also consider two single-
-objective fitness functions. We explore the role of representation in evolving cooperation by implementing four representations for evolving players. Finally, we evaluate the effect of noise on the evolution of cooperative behaviors. Testing our evolved players in tournaments in which a player’s own score is the sole metric, we find that players evolved with mutual cooperation as an objective are very competitive. Thus, learning to play nicely with others is a successful strategy for maximizing personal reward.
+Abstract: Like anyone, teachers need feedback to improve. Due to the high cost of human classroom observation, teachers receive infrequent feedback which is often more focused on evaluating performance than on improving practice. To address this critical barrier to teacher learning, we aim to provide teachers with detailed and actionable automated feedback. Towards this end, we developed an approach that enables teachers to easily record high-quality audio from their classes. Using this approach, teachers recorded 142 classroom sessions, of which 127 (89%) were usable. Next, we used speech recognition and machine learning to develop teacher-generalizable computer-scored estimates of key dimensions of teacher discourse. We found that automated models were moderately accurate when compared to human coders and that speech recognition errors did not influence performance. We conclude that authentic teacher discourse can be recorded and analyzed for automatic feedback. Our next step is to incorporate the automatic models into an interactive visualization tool that will provide teachers with objective feedback on the quality of their discourse.
 
 [Download paper here](../files/jensen-chi-20-camera-ready-v4.pdf)
