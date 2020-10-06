@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Emily Jensen"
 title_separator          : "-"
 name                     : &name "Emily Jensen"
-description              : &description "PhD student at CU Boulder \n she/hers"
+description              : &description "PhD student at CU Boulder"
 url                      : https://emilykjensen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "emilykjensen.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Emily Jensen"
   avatar           : "Engineerin_Grad_Portraits-35.JPG"
-  bio              : "3rd year PhD student in CS"
+  bio              : "3rd year PhD student in CS \n she/hers"
   location         : 
   employer         : "University of Colorado Boulder"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
