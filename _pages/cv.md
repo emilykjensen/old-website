@@ -60,3 +60,20 @@ Affiliations
 * [Phi Sigma Rho](https://www.phisigmarho.org/) engineering sorority
 * [Phi Beta Kappa](https://www.pbk.org/) liberal arts honor society
 * [Pi Mu Epsilon](https://pme-math.org/) mathematics honor society
+
+Honors and Awards
+======
+* Outstanding Service Award
+  * CU Boulder, 2020
+* Department Student Travel Award
+  * CU Boulder, 2020
+* Outstanding Research Poster
+  * CU Boulder, 2019
+* Computer Science Departmental Fellowship
+  * CU Boulder, 2018
+* Webster Godman Simon Mathematics Award
+  * CWRU, 2018
+* President’s Commendation for outstanding service
+  * Phi Sigma Rho national sorority, 2017
+* Phi Beta Kappa Prize for outstanding sophomore in liberal arts and sciences
+  * CWRU, 2016
