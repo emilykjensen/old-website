@@ -10,7 +10,7 @@ redirect_from:
 
 Hey there, I'm Emily!
 
-I'm a third-year Ph.D. student in the [Department of Computer Science](https://colorado.edu/cs) and the [Institute of Cognitive Science](https://colorado.edu/ics) at CU Boulder, working with [Dr. Sidney D'Mello](https://sites.google.com/site/sidneydmello/). In general, I'm interested in how technology can provide a personalized learning experience and possibly help us develop better behaviors. You can read more on [my research page](https://emilykjensen.github.io/research/).
+I'm a third-year Ph.D. student in the [Department of Computer Science](https://colorado.edu/cs) and the [Institute of Cognitive Science](https://colorado.edu/ics) at CU Boulder. In general, I'm interested in how technology can provide a personalized learning experience and possibly help us develop better behaviors. You can read more on [my research page](https://emilykjensen.github.io/research/).
 
 One of my goals in grad school is to maintain a life outside of grad school; depending on the day, you can find me drinking tea, reading dystopian novels, knitting, trail running (apparently it's a requirement in Boulder), and figuring out how to use my road bike.
 
