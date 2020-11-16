@@ -46,9 +46,16 @@ Service and Leadership
   * Department representative (Fall 2018 - Spring 2019)
   * Graduate Senator to CU Student Government (Fall 2018 - Spring 2019)
   * Director of Communications (Fall 2019 - Present)
+* Web Chair, ICMI 2018 Conference
   
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+Affiliations
+======
+* [Phi Sigma Rho](https://www.phisigmarho.org/) engineering sorority
+* [Phi Beta Kappa](https://www.pbk.org/) liberal arts honor society
+* [Pi Mu Epsilon](https://pme-math.org/) mathematics honor society
