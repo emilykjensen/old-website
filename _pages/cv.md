@@ -42,6 +42,12 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 Service and Leadership
 ======
 * Computer Science Graduate Student Association
@@ -63,12 +69,6 @@ Mentorship
 * High School Students
   * Connor Malley, 2019
 * Science Fair Judge at Colorado STEM Academy, 2019, 2020
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Affiliations
 ======
