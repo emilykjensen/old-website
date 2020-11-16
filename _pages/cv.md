@@ -47,6 +47,16 @@ Service and Leadership
   * Graduate Senator to CU Student Government (Fall 2018 - Spring 2019)
   * Director of Communications (Fall 2019 - Present)
 * Web Chair, ICMI 2018 Conference
+
+Mentorship
+======
+* Masters Students
+  * Tetsumichi Umada, 2019-2020
+* Undergraduate Students
+  * Xuefei Sun, 2019
+* High School Students
+  * Connor Malley, 2019
+* Science Fair Judge at Colorado STEM Academy, 2019, 2020
   
 Teaching
 ======
@@ -65,7 +75,7 @@ Honors and Awards
 ======
 * Outstanding Service Award, CU Boulder 2020
 * Department Student Travel Award, CU Boulder 2020
-* Outstanding Research Poster, CU Boulder 2019
+* Best Research Poster, CU Boulder 2019
 * Computer Science Departmental Fellowship, CU Boulder 2018
 * Webster Godman Simon Mathematics Award, CWRU 2018
 * President’s Commendation for outstanding service, Phi Sigma Rho national sorority 2017
