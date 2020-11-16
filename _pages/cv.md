@@ -69,6 +69,7 @@ Mentorship
 * High School Students
   * Connor Malley, 2019
 * Science Fair Judge at Colorado STEM Academy, 2019, 2020
+* Graduate Peer Mentor, 2019, 2020
   
 Affiliations
 ======
