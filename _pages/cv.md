@@ -56,6 +56,7 @@ Teaching
   
 Affiliations
 ======
+* [Association for Computing Machinery](https://www.acm.org/)/SIGCHI
 * [Phi Sigma Rho](https://www.phisigmarho.org/) engineering sorority
 * [Phi Beta Kappa](https://www.pbk.org/) liberal arts honor society
 * [Pi Mu Epsilon](https://pme-math.org/) mathematics honor society
