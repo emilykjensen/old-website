@@ -21,7 +21,7 @@ Research Experience
   * Fall 2018 - Present
   
 * Undergraduate Researcher
-  * Summer 2018
+  * Summer 2017
   * REU at Florida Institute of Technology
 
 Publications
