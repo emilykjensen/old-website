@@ -52,14 +52,18 @@ Service and Leadership
 ======
 * Computer Science Graduate Student Association
   * Department representative to graduate student government (Fall 2018 - Spring 2019)
+  * Student member of faculty search committee (Spring 2019)
   * Graduate student representative on department graduate committee (Fall 2019 - Spring 2020)
+    * Developed and analyzed survey of graduate student well-being (Spring 2019, 2020)
   * Vice Chair (Spring 2020 - Fall 2020)
   * Chair (Spring 2021 - Present)
 * Graduate and Professional Student Government
   * Department representative (Fall 2018 - Spring 2019)
+    * Served on travel awards committee and graduate housing advisory committee
   * Graduate Senator to CU Student Government (Fall 2018 - Spring 2019)
   * Director of Communications (Fall 2019 - Present)
-* Web Chair, ICMI 2018 Conference
+* ICMI Conference
+  * Webchair (2018)
 
 Mentorship
 ======
