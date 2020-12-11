@@ -54,6 +54,7 @@ Service and Leadership
   * Department representative to graduate student government (Fall 2018 - Spring 2019)
   * Graduate student representative on department graduate committee (Fall 2019 - Spring 2020)
   * Vice Chair (Spring 2020 - Fall 2020)
+  * Chair (Spring 2021 - Present)
 * Graduate and Professional Student Government
   * Department representative (Fall 2018 - Spring 2019)
   * Graduate Senator to CU Student Government (Fall 2018 - Spring 2019)
