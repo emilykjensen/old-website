@@ -39,4 +39,4 @@ tags:
 - Dr. Sokhey and many other people are big supporters of using Twitter to market yourself. Personally, I find Twitter to be an overwhelming place and not good for my mental health. If you do want to use this, make sure you keep separate academic and personal accounts.
 - Make a website (like this free one on GitHub!) and put it in your email signature. I still need to make an email signature...
 - Be careful about the information you share online
-- Get an ORCID account. It will make you easily identifiable in case your name, institution, or anything else changes.
+- Get an [ORCID](https://info.orcid.org/what-is-orcid) account. It will make you easily identifiable in case your name, institution, or anything else changes.
