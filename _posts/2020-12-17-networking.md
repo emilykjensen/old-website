@@ -3,8 +3,8 @@ title: 'Notes from Networking Workshop'
 date: 2020-12-17
 permalink: /posts/2020/12/networking/
 tags:
-  - notes
-  - professional development
+  - Notes
+  - Professional Development
 ---
 
 # The details

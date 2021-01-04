@@ -1,10 +1,14 @@
 ---
 title: 'Name of post'
-date: 2012-08-14
+date: 2021-01-01
 permalink: /posts/YYYY/MM/post-title/
 tags:
-  - category1
-  - category2
+  - Book Summary
+  - Daily Log
+  - Running Log
+  - Yearly Log
+  - Notes
+  - Professional Development
 ---
 
 Put some cool markdown here!
