@@ -19,7 +19,7 @@ This workshop is a condensed version of the weekly productivity seminars I have 
 
 ## Day 1: The Four Tendencies
 
-- The theory of four Tendencies is from Gretchen Ruben (take the quiz [here](https://quiz.gretchenrubin.com)).
+- The theory of four Tendencies is from Gretchen Rubin (take the quiz [here](https://quiz.gretchenrubin.com)).
 - Your tendency describes how you respond to external and internal expectations. 
 	- For example, I am a questioner, which means I have no problem working to meet inner expectations, but I resist outer expectations unless I understand why it is important. That means I need to understand _why_ I am doing something; saying "because I said so" is not motivating in the slightest.
 	- One of the difficulties questioners face is that they can talk themselves into and out of anything. If I don't feel like doing reading for reseach one day, I can make up a bunch of excuses like "the internet is bad today" or "it's more urgent that the laundry gets folded". Leslie calls this action "spotting loopholes". This is dangerous because you can talk yourself out of doing anything if you are not in the mood. Additionally, this burns a lot of mental energy while you are figuring out what to do that day. You can't depend on willpower to last forever!
