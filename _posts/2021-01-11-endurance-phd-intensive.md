@@ -22,7 +22,7 @@ This workshop is a condensed version of the weekly productivity seminars I have 
 - The theory of four Tendencies is from Gretchen Rubin (take the quiz [here](https://quiz.gretchenrubin.com)).
 - Your tendency describes how you respond to external and internal expectations. 
 	- For example, I am a questioner, which means I have no problem working to meet inner expectations, but I resist outer expectations unless I understand why it is important. That means I need to understand _why_ I am doing something; saying "because I said so" is not motivating in the slightest.
-	- One of the difficulties questioners face is that they can talk themselves into and out of anything. If I don't feel like doing reading for reseach one day, I can make up a bunch of excuses like "the internet is bad today" or "it's more urgent that the laundry gets folded". Leslie calls this action "spotting loopholes". This is dangerous because you can talk yourself out of doing anything if you are not in the mood. Additionally, this burns a lot of mental energy while you are figuring out what to do that day. You can't depend on willpower to last forever!
+	- One of the difficulties questioners face is that they can talk themselves into and out of anything. If I don't feel like doing reading for research one day, I can make up a bunch of excuses like "the internet is bad today" or "it's more urgent that the laundry gets folded". Leslie calls this action "spotting loopholes". This is dangerous because you can talk yourself out of doing anything if you are not in the mood. Additionally, this burns a lot of mental energy while you are figuring out what to do that day. You can't depend on willpower to last forever!
 	- Some of the most helpful strategies for questioners: develop clarity of purpose, be mindful of spotting loopholes, monitor trends in productivity, and be able to distinguish why one behavior is better than another so you feel justified in continuing the behavior.
 - Why are looking at tendencies helpful?
 	- Understanding your motivation helps develop resilience and lowers barriers to getting things done. You can set up systems that let you make less decisions about what to do.
@@ -42,6 +42,30 @@ This workshop is a condensed version of the weekly productivity seminars I have 
 	- Hopefully your advisor or supervisor is open to hearing your thoughts on this, since it benefits them for you to be more productive!
 	- If they won't budge, then keep in mind that this position is only temporary.
 
-## Day 2:
+## Day 2: Habits and Automation
+
+- What are we going to automate?
+	- This determines what we need to spend mental energy on.
+	- For example, you can eliminate choices like what to eat, what to wear, when to get up
+	- Questioners can really benefit from automated habits because it reduces decision making fatigue
+- Anchor habits are non-negotiable things that happen every day
+	- For example, this could be having a cup of coffee or brushing your teeth
+	- Transitions are important for differentiating between parts of the day. When working from home, you are missing the classical commute, so you will need to be more creative about making a difference between work time and personal time. For example, get a curtain to separate work desk and sleeping area of your room.
+- What is a good habit? A sticky habit
+	- Sticky habits have strong triggers. Most people react well to visual triggers, like setting out your medication by the coffee maker for the next morning.
+	- Sticky habits also have easy wins without many barriers. This means you can get a quick victory to feel good, and it is not difficult to accomplish.
+	- Regularly winning at easy habits allows you to rebuild confidence in your ability to accomplish things
+	- Need to pace yourself when making new habits. You need to work up to manageable behaviors. Building momentum is more important than the initial small results.
+- When taking out a bad habit, it often helps to add in a better substitute. For example, substituting popcorn as a crunchy snack instead of potato chips.
+- How to deal with resistance to habits
+	- Be careful about "moral licensing" which can give you an out if you aren't feeling like doing it
+	- Think about the reasons behind your resistance and remember your reasons for starting the habit
+	- Work on new habits when you have energy during the day. Don't try to do new things when your energy budget is drained!
+	- Try habit pairing. Take something you like (tea) and pair it with a new habit that isn't as fun (writing a paper) 
+- Building systems: cue-behavior-reward
+	- Cue: something that reminds you to do the action. Cues can be location based (kitchen, bathroom), time based (after waking up), visual based (setting out vitamins to refill). 
+	- Behavior: the action you want to do as a result of the cue
+	- Reward: something to make you feel good for doing the behavior so you want to do it again. For some people, this can just be the satisfaction of checking it off of a list. For others, this could be through habit pairing with a treat or fun activity. For me, I'm not good at moderating so the treat option doesn't really make sense. I also don't like spending money as a reward, and am trying to not associate food with rewards. Thankfully I do enjoy checking things off!
+	- You can also reward yourself with time off. If you reserve your nights and weekends, then it can be motivating to get your work done during the day so you can feel no guilt about not doing work.
 
 ## Day 3:
