@@ -27,7 +27,7 @@ This workshop is a condensed version of the weekly productivity seminars I have 
 - Why are looking at tendencies helpful?
 	- Understanding your motivation helps develop resilience and lowers barriers to getting things done. You can set up systems that let you make less decisions about what to do.
 	- Predictability increases happiness because it decreases stress
-- If you have an addictive personaliy, you need to abstain from the things that are bad for you. For example, if you can't just have 2 oreos, then probabaly stay away from oreos altogether. While I have been fortunate to not suffer from substance addiction, I do think I have an addictive personality. I can't do something halfway, whether that is reading books about running, trying out a new productivity system, or meal planning. This tends to lead to burnout and frustration. I can make rules to moderate, but find they feel too restrictive, or I can always rationalize why I don't need to follow the rule this time. To avoid this, I should identify behaviors that are harmful (at the moment I'm mostly thinking of sugar) and make a plan to avoid them.
+- If you have an addictive personality, you need to abstain from the things that are bad for you. For example, if you can't just have 2 Oreos, then probably stay away from Oreos altogether. While I have been fortunate to not suffer from substance addiction, I do think I have an addictive personality. I can't do something halfway, whether that is reading books about running, trying out a new productivity system, or meal planning. This tends to lead to burnout and frustration. I can make rules to moderate, but find they feel too restrictive, or I can always rationalize why I don't need to follow the rule this time. To avoid this, I should identify behaviors that are harmful (at the moment I'm mostly thinking of sugar) and make a plan to avoid them.
 - We will engage in behaviors that are more convenient and avoid behaviors that are inconvenient. Will come back to this more when we talk about forming habits!
 - You don't have separate personal and professional personalities. If you are a questioner, then that tendency applies to both work and home.
 - One possible way to motivate change is a "lightening bolt". As a questioner, you need to keep in mind the reason this motivated you in order to keep up momentum. For me, this usually happens when I read an especially good book or when I get so sick of my bad habits that I want to jump start a new system of habits.
@@ -41,3 +41,7 @@ This workshop is a condensed version of the weekly productivity seminars I have 
 	- I have definitely struggled with this as a graduate student. Some areas where this may come up is expectations about responding to emails and scheduling meetings at all times throughout the week, even though you have peak productivity hours at certain times of day. 
 	- Hopefully your advisor or supervisor is open to hearing your thoughts on this, since it benefits them for you to be more productive!
 	- If they won't budge, then keep in mind that this position is only temporary.
+
+## Day 2:
+
+## Day 3:
