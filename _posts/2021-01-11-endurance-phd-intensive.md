@@ -68,4 +68,23 @@ This workshop is a condensed version of the weekly productivity seminars I have 
 	- Reward: something to make you feel good for doing the behavior so you want to do it again. For some people, this can just be the satisfaction of checking it off of a list. For others, this could be through habit pairing with a treat or fun activity. For me, I'm not good at moderating so the treat option doesn't really make sense. I also don't like spending money as a reward, and am trying to not associate food with rewards. Thankfully I do enjoy checking things off!
 	- You can also reward yourself with time off. If you reserve your nights and weekends, then it can be motivating to get your work done during the day so you can feel no guilt about not doing work.
 
-## Day 3:
+## Day 3: Values and Energy Budget
+
+- To start off take [this test](https://personalvalu.es/personal-values-test) to see what your top values are. Don't select things you _wish_ were your values or things you admire in other people. Your values don't have to be sexy or exciting, but they will help you pick goals that are motivating.
+- You will have to train yourself to do a lot of things you don't want to do, especially during grad school. You need to remember what your reasons are for being here to get your degree!
+- Starting new habits
+	- You need to have clarity on why you are doing the thing and your goals. You need to write down these goals and schedule the plan, such as a planner or notebook.
+	- Frequency: first step in developing a habit. Work on doing the habit every day, even if it is 5 minutes. If your goal is writing, even opening a word document on the weekends and writing 2 sentences helps with frequency. The purpose of this step is to remove resistance to doing the action.
+	- Duration: once you have lowered resistance to doing the habit every day, then focus on doing the behavior for longer. Once you are writing every day, work on writing for longer periods of time.
+	- Intensity: once you are getting the time in, work on tweaking your habit and environment to get the most done in the amount of time you have. This strongly depends on the energy budget. For example, with COVID and working from home, intensity is the first thing to go since our typical triggers and habits have changed.
+- Setting goals
+	- Leslie does not recommend setting task-oriented goals. For example, long term goal is "write chapter 2 by end of the semester" and short term goal is "write introduction today". The problem with these goals is that there are so many things outside of your control, like if the server crashes or your collaborator won't respond to you.
+	- Instead, consider setting goals that are time-oriented. We can control how we spend our 4-hour time blocks, regardless of how much gets done during that time.
+	- Finding the right planner can be super helpful. Some recommendations are Productivity Planner, Self Planner for questioners, and Clever Fox planner for obligers.
+- Lost some steam taking notes on this today, but see my notes about my personal values. I am going to make a point of doing some goal setting and planning with my roommate who also went through the intensive this week!
+
+
+
+
+
+
