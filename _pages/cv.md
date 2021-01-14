@@ -34,8 +34,8 @@ Publications
   
 In Review
 ======
-* <b>Jensen, E.</b>, Umada, T., Hunkins, N.C., Hutt, S., Huggins-Manley, A.C., and D'Mello, S.K., "What You Do Predicts How You Do: Prospectively Modeling Student Quiz Performance Using Activity Features in an Online Learning Environment", submitted to Learning Analytics and Knowledge 2021 (_LAK21_) Conference
-* <b>Jensen, E.</b>, Pugh, S.L., and D'Mello, S.K., "A Deep Transfer Learning Approach to Automated Teacher Discourse Feedback", submitted to Learning Analytics and Knowledge 2021 (_LAK21_) Conference
+* <b>Jensen, E.</b>, Umada, T., Hunkins, N.C., Hutt, S., Huggins-Manley, A.C., and D'Mello, S.K., "What You Do Predicts How You Do: Prospectively Modeling Student Quiz Performance Using Activity Features in an Online Learning Environment", submitted to Learning Analytics and Knowledge 2021 (_LAK21_) Conference. <b> Accepted as full paper, final version will be posted soon </b>
+* <b>Jensen, E.</b>, Pugh, S.L., and D'Mello, S.K., "A Deep Transfer Learning Approach to Automated Teacher Discourse Feedback", submitted to Learning Analytics and Knowledge 2021 (_LAK21_) Conference. <b> Accepted as full paper, final version will be posted soon </b>
 * Peffer, M., <b>Jensen, E.</b>, and Raza, A., "Writing Science: How to Showcase your Work to a Wider Audience", workshop submitted to Learning Analytics and Knowledge 2021 (_LAK21_) Conference
   
 Talks
