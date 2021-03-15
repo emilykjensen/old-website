@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-You can find a downloadable version of my CV [here](https://github.com/emilykjensen/emilykjensen.github.io/blob/master/files/Emily%20Jensen%20CV%2018Jan2021.pdf)
+You can find a downloadable version of my CV [here](https://github.com/emilykjensen/emilykjensen.github.io/blob/master/files/Emily%20Jensen%20CV%2014Mar2021.pdf)
 
 Education
 ======
+* Ph.D. in Computer Science, University of Colorado Boulder, 2018 - present
 * B.S. in Mathematics, Case Western Reserve University, 2018
 * B.A. in Cognitive Science, Case Western Reserve University, 2018
-* Ph.D. in Computer Science, University of Colorado Boulder, 2018 - present
 
 Research Experience
 ======
@@ -36,7 +36,6 @@ In Review
 ======
 * <b>Jensen, E.</b>, Umada, T., Hunkins, N.C., Hutt, S., Huggins-Manley, A.C., and D'Mello, S.K., "What You Do Predicts How You Do: Prospectively Modeling Student Quiz Performance Using Activity Features in an Online Learning Environment", submitted to Learning Analytics and Knowledge 2021 (_LAK21_) Conference. <b> Accepted as full paper, final version will be posted soon </b>
 * <b>Jensen, E.</b>, Pugh, S.L., and D'Mello, S.K., "A Deep Transfer Learning Approach to Automated Teacher Discourse Feedback", submitted to Learning Analytics and Knowledge 2021 (_LAK21_) Conference. <b> Accepted as full paper, final version will be posted soon </b>
-* Peffer, M., <b>Jensen, E.</b>, and Raza, A., "Writing Science: How to Showcase your Work to a Wider Audience", workshop submitted to Learning Analytics and Knowledge 2021 (_LAK21_) Conference
 * D'Mello, S.K., and <b>Jensen, E.</b> "Emotional Learning Analytics", submitted to Handbook of Learning Analytics
   
 Talks
@@ -88,6 +87,7 @@ Affiliations
 
 Honors and Awards
 ======
+* Graduate and Professional Student Government Travel Grant, CU Boulder 2021
 * Outstanding Service Award, CU Boulder 2020
 * Department Student Travel Award, CU Boulder 2020
 * Best Research Poster, CU Boulder 2019
