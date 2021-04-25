@@ -34,8 +34,6 @@ Publications
   
 In Review
 ======
-* Full paper submitted to Educational Data Mining Conference
-* Short paper submitted to Educational Data Mining Conference
 * D'Mello, S.K., and <b>Jensen, E.</b> "Emotional Learning Analytics", submitted to Handbook of Learning Analytics
   
 Talks
@@ -56,14 +54,15 @@ Service and Leadership
   * Department representative to graduate student government (Fall 2018 - Spring 2019)
   * Student member of faculty search committee (Spring 2019)
   * Graduate student representative on department graduate committee (Fall 2019 - Spring 2020)
-    * Developed and analyzed survey of graduate student well-being (Spring 2019, 2020)
+    * Developed and analyzed survey of graduate student well-being (Spring 2019, 2020, 2021)
   * Vice Chair (Spring 2020 - Fall 2020)
   * Chair (Spring 2021 - Present)
 * Graduate and Professional Student Government
   * Department representative (Fall 2018 - Spring 2019)
     * Served on travel awards committee and graduate housing advisory committee
   * Graduate Senator to CU Student Government (Fall 2018 - Spring 2019)
-  * Director of Communications (Fall 2019 - Present)
+  * Director of Communications (Fall 2019 - Spring 2021)
+  * President of Administration (Fall 2021 - Present)
 * ICMI Conference
   * Webchair (2018)
 
@@ -87,6 +86,7 @@ Affiliations
 
 Honors and Awards
 ======
+* Outstanding Service Award, CU Boulder 2021
 * Graduate and Professional Student Government Travel Grant, CU Boulder 2021
 * Outstanding Service Award, CU Boulder 2020
 * Department Student Travel Award, CU Boulder 2020
