@@ -10,5 +10,6 @@ Abstract: Students using online learning environments need to effectively self-r
 
 
 [Download paper here](../files/lak21-12.pdf)
+[Download talk slides here](../files/Jensen_LAK21-quiz_slides.pptx)
 
 This paper included a talk at the conference and received a best paper nomination.
