@@ -2,7 +2,7 @@
 title: A Deep Transfer Learning Approach to Modeling Teacher Discourse in the Classroom
 collection: publications
 permalink: /publication/lak21-teacher-talk
-date: 2021-04-12
+date: 2021-04-14
 venue: Learning Analytics and Knowledge Conference
 citation: Jensen, E., Pugh, S.L. & D'Mello, S.K. (2021). &quot;A Deep Transfer Learning Approach to Modeling Teacher Discourse in the Classroom.&quot; Proceedings of the Learning Analytics and Knowledge (LAK21) Conference.
 ---

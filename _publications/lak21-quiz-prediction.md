@@ -2,7 +2,7 @@
 title: What You Do Predicts How You Do - Prospectively Modeling Student Quiz Performance Using Activity Features in an Online Learning Environment
 collection: publications
 permalink: /publication/lak21-quiz-prediction
-date: 2021-04-12
+date: 2021-04-14
 venue: Learning Analytics and Knowledge Conference
 citation: Jensen, E., Umada, T., Hunkins, N.C., Hutt, S., Huggins-Manley, A.C., & D'Mello, S.K. (2021). &quot;What You Do Predicts How You Do  Prospectively Modeling Student Quiz Performance Using Activity Features in an Online Learning Environment.&quot; Proceedings of the Learning Analytics and Knowledge (LAK21) Conference.
 ---
