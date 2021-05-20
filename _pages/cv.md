@@ -62,7 +62,7 @@ Service and Leadership
     * Served on travel awards committee and graduate housing advisory committee
   * Graduate Senator to CU Student Government (Fall 2018 - Spring 2019)
   * Director of Communications (Fall 2019 - Spring 2021)
-  * President of Administration (Fall 2021 - Present)
+  * President of Engagement (Fall 2021 - Present)
 * ICMI Conference
   * Webchair (2018)
 
