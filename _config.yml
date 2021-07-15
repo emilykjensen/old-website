@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Emily Jensen"
   avatar           : "Engineerin_Grad_Portraits-35.JPG"
-  bio              : "3rd year PhD student in CS \n she/hers"
+  bio              : "PhD student in CS \n she/hers"
   location         : 
   employer         : "University of Colorado Boulder"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=00dobVoAAAAJ"
   email            : "emily.jensen@colorado.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : #"https://orcid.org/0000-0002-1550-379X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
