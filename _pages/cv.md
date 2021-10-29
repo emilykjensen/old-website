@@ -34,6 +34,8 @@ Publications
   
 In Review
 ======
+* <b>Jensen, E.</b>, Luster, M.S., Yoon, H., Pitts, B.J., and Sankaranarayanan, S., submitted to ICCPS 2022
+* Leite, W., et al, submitted to LAK 2022
 * D'Mello, S.K., and <b>Jensen, E.</b> "Emotional Learning Analytics", submitted to Handbook of Learning Analytics
   
 Talks
@@ -56,7 +58,7 @@ Service and Leadership
   * Graduate student representative on department graduate committee (Fall 2019 - Spring 2020)
     * Developed and analyzed survey of graduate student well-being (Spring 2019, 2020, 2021)
   * Vice Chair (Spring 2020 - Fall 2020)
-  * Chair (Spring 2021 - Present)
+  * Chair (Spring 2021 - Fall 2021)
 * Graduate and Professional Student Government
   * Department representative (Fall 2018 - Spring 2019)
     * Served on travel awards committee and graduate housing advisory committee
@@ -65,6 +67,7 @@ Service and Leadership
   * President of Engagement (Fall 2021 - Present)
 * ICMI Conference
   * Webchair (2018)
+* Reviewer: AIED (2020, 2021), CHI (2021), L@S (2021)
 
 Mentorship
 ======
@@ -74,6 +77,7 @@ Mentorship
   * Xuefei Sun, 2019
 * High School Students
   * Connor Malley, 2019
+  * Tanishqa Puhan, 2021
 * Science Fair Judge at Colorado STEM Academy, 2019, 2020
 * Graduate Peer Mentor, 2019, 2020
   
