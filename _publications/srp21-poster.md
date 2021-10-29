@@ -1,0 +1,10 @@
+---
+title: Emotion differentiation and bipolar disorder risk in young adults before and during the COVID-19 pandemic, An experience-sampling approach
+collection: publications
+permalink: /publication/2021-srp-poster
+date: 2021-09-23
+venue: Society for Research in Psychopathology
+citation: Villanueva, C.M., Ibonie, S.G., <b>Jensen, E.</b>, Eloy, L., D’Mello, S.K., & Gruber, J. (2021). &quot;Emotion differentiation and bipolar disorder risk in young adults before and during the COVID-19 pandemic, An experience-sampling approach.&quot; Poster abstract accepted to the 2021 Society for Research in Psychopathology (SRP) Annual Conference.
+---
+
+Abstract: Despite the prominence of emotion disturbance in bipolar disorder, few studies to date have assessed more nuanced aspects of emotion experience in this population. Growing evidence highlights the utility of emotion differentiation—defined as the ability to specifically identify one’s emotions—in predicting mood symptom severity and outcomes, particularly during times of stress. Across two studies, the present investigation adopted a naturalistic experience-sampling approach across a continuous two-week period to examine associations between emotion differentiation and continuous measures of self-reported bipolar risk and mood symptom dimensions among young adults during their first year of college prior to COVID-19 (Spring 2019; Study 1; n = 136) and in a separate cohort of students during the COVID-19 pandemic (Spring 2020; Study 2; n = 136). Study 1 results suggested that at baseline (i.e., pre-COVID) positive emotion differentiation was associated with increased mania and decreased depression severity, but not trait bipolar risk. Study 2 suggested that during the COVID-19 pandemic the interaction of positive and negative emotion differentiation was associated with increased trait bipolar risk, but not current mania or depression severity. Taken together, these findings could have important implications for understanding emotion dynamics in bipolar disorder and suggest opportunities for translational interventions.
