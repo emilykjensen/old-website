@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find a downloadable version of my CV [here](https://github.com/emilykjensen/emilykjensen.github.io/blob/master/files/Emily%20Jensen%20CV%2014Mar2021.pdf)
+You can find a downloadable version of my CV [here](https://github.com/emilykjensen/emilykjensen.github.io/blob/master/files/Emily%20Jensen%20CV%2029Oct2021.pdf)
 
 Education
 ======
@@ -80,6 +80,7 @@ Mentorship
   * Tanishqa Puhan, 2021
 * Science Fair Judge at Colorado STEM Academy, 2019, 2020
 * Graduate Peer Mentor, 2019, 2020
+* Tech Help Facilitator at Boulder Public Library, 2019 - Present
   
 Affiliations
 ======
