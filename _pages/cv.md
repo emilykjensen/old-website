@@ -34,8 +34,8 @@ Publications
   
 In Review
 ======
-* <b>Jensen, E.</b>, Luster, M.S., Yoon, H., Pitts, B.J., and Sankaranarayanan, S., submitted to ICCPS 2022
-* Leite, W., et al, submitted to LAK 2022
+* Full paper submitted to ICCPS 2022
+* Full paper submitted to LAK 2022
 * D'Mello, S.K., and <b>Jensen, E.</b> "Emotional Learning Analytics", submitted to Handbook of Learning Analytics
   
 Talks
