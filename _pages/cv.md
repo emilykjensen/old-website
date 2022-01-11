@@ -14,6 +14,7 @@ You can find a downloadable version of my CV [here](https://github.com/emilykjen
 Education
 ======
 * Ph.D. in Computer Science, University of Colorado Boulder, 2018 - present
+* M.S. in Computer Science, University of Colorado Boulder, 2022
 * B.S. in Mathematics, Case Western Reserve University, 2018
 * B.A. in Cognitive Science, Case Western Reserve University, 2018
 
@@ -42,7 +43,7 @@ In Review
 
 Talks
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
@@ -89,6 +90,7 @@ Affiliations
 ======
 * [Association for Computing Machinery](https://www.acm.org/)/SIGCHI
 * [Phi Sigma Rho](https://www.phisigmarho.org/) engineering sorority
+  * Currently serving as national Ritual Director
 * [Phi Beta Kappa](https://www.pbk.org/) liberal arts honor society
 * [Pi Mu Epsilon](https://pme-math.org/) mathematics honor society
 
