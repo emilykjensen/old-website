@@ -1,0 +1,9 @@
+---
+title: A novel video recommendation system for algebra, An effectiveness evaluation study
+collection: publications
+permalink: /publication/lak22-vid-recommendation
+date: 2022-03-21
+venue: Learning Analytics and Knowledge Conference
+citation: Leite, W.L., Roy, S., Chakraborty, N., Michailidis, G., Huggins-Manley, A.C., D'Mello, S.K., Faradonbeh, M.K.S., <b>Jensen, E.</b>, Kuang, H., & Jing, Z. (2022). &quot;A novel video recommendation system for algebra, An effectiveness evaluation study.&quot; Proceedings of the Learning Analytics and Knowledge (LAK22) Conference.
+---
+Abstract: This study presents a novel video recommendation system for an algebra virtual learning environment (VLE) that leverages ideas and methods from engagement measurement, item response theory, and reinforcement learning. Following Vygotsky’s Zone of Proximal Development (ZPD) theory, but considering low affect and high affect students separately, we developed a system of five categories of video recommendations: 1) Watch new video; 2) Review current topic video with a new tutor; 3) Review segment of current video with current tutor; 4) Review segment of current video with a new tutor; 5) Watch next video in curriculum sequence. The category of recommendation was determined by student scores on a quiz and a sensor-free engagement detection model. New video recommendations (i.e., category 1) were selected based on a novel reinforcement learning algorithm that takes input from an item response theory model. The recommendation system was evaluated in a large field experiment, both before and after school closures due to the COVID-19 pandemic. The results show evidence of effectiveness of the video recommendation algorithm during the period of normal school operations, but the effect disappears after school closures. Implications for teacher orchestration of technology for normal classroom use and periods of school closure are discussed.
