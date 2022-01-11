@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find a downloadable version of my CV [here](https://github.com/emilykjensen/emilykjensen.github.io/blob/master/files/Emily%20Jensen%20CV%2029Oct2021.pdf)
+You can find a downloadable version of my CV [here](https://github.com/emilykjensen/emilykjensen.github.io/blob/master/files/Emily%20Jensen%20CV%2004Jan2022.pdf)
 
 Education
 ======
