@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find a downloadable version of my CV [here](https://github.com/emilykjensen/emilykjensen.github.io/blob/master/files/Emily%20Jensen%20CV%2004Jan2022.pdf)
+You can find a downloadable version of my CV [here](https://github.com/emilykjensen/emilykjensen.github.io/blob/master/files/Emily%20Jensen%20CV%2014Feb2022.pdf)
 
 Education
 ======
@@ -36,8 +36,7 @@ Publications
   
 In Review
 ======
-* Full paper submitted to ICCPS 2022
-* Full paper submitted to LAK 2022
+* Journal paper submitted to Clinical Psychological Science
 * D'Mello, S.K., and <b>Jensen, E.</b> "Emotional Learning Analytics", submitted to Handbook of Learning Analytics
 
 
@@ -96,6 +95,7 @@ Affiliations
 
 Honors and Awards
 ======
+* David T. Spalding Graduate Teaching Fund Fellowship Award, CU Boulder 2022
 * Outstanding Service Award, CU Boulder 2021
 * Graduate and Professional Student Government Travel Grant, CU Boulder 2021
 * Outstanding Service Award, CU Boulder 2020
