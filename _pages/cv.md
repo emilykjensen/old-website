@@ -22,6 +22,7 @@ Research Experience
 ======
 * Graduate Research Assistant
   * Fall 2018 - Present
+  * University of Colorado Boulder
   
 * Undergraduate Researcher
   * Summer 2017
@@ -70,6 +71,8 @@ Service and Leadership
   * President of Engagement (Fall 2021 - Present)
 * ICMI Conference
   * Webchair (2018)
+* EDM Conference
+  * Program Committee Member (2022)
 * Reviewer: AIED (2020, 2021), CHI (2021), L@S (2021)
 
 Mentorship
