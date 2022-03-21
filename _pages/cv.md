@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find a downloadable version of my CV [here](https://github.com/emilykjensen/emilykjensen.github.io/blob/master/files/Emily%20Jensen%20CV%2014Feb2022.pdf)
+You can find a downloadable version of my CV [here](https://github.com/emilykjensen/emilykjensen.github.io/blob/master/files/Emily%20Jensen%20CV%2021Mar2022.pdf)
 
 Education
 ======
@@ -38,7 +38,7 @@ Publications
 In Review
 ======
 * Journal paper submitted to Clinical Psychological Science
-* D'Mello, S.K., and <b>Jensen, E.</b> "Emotional Learning Analytics", submitted to Handbook of Learning Analytics
+* Full paper submitted to Intelligent Transportation Systems Conference
 
 
 Talks
@@ -73,7 +73,7 @@ Service and Leadership
   * Webchair (2018)
 * EDM Conference
   * Program Committee Member (2022)
-* Reviewer: AIED (2020, 2021), CHI (2021), L@S (2021)
+* Reviewer: AIED (2020, 2021), CHI (2021), L@S (2021), EDM (2022), Computers & Education (2022)
 
 Mentorship
 ======
