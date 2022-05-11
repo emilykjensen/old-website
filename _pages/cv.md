@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find a downloadable version of my CV [here](https://github.com/emilykjensen/emilykjensen.github.io/blob/master/files/Emily%20Jensen%20CV%2021Mar2022.pdf)
+You can find a downloadable version of my CV [here](https://github.com/emilykjensen/emilykjensen.github.io/blob/master/files/Emily%20Jensen%20CV%2011May2022.pdf)
 
 Education
 ======
@@ -20,8 +20,12 @@ Education
 
 Research Experience
 ======
+* Journeyman Fellow
+  * Summer 2022 - Present
+  * Army Research Lab, Human Research and Engineering Directorate
+
 * Graduate Research Assistant
-  * Fall 2018 - Present
+  * Fall 2018 - Spring 2022
   * University of Colorado Boulder
   
 * Undergraduate Researcher
