@@ -43,7 +43,7 @@ In Review
 ======
 * Journal paper submitted to Clinical Psychological Science
 * Paper submitted to Intelligent Transportation Systems Conference
-  * See related posters for [department research expo](../_files/risk_field_poster.pdf) and [PPI conference](../_files/PPI_poster.pdf)
+  * See related posters for [department research expo](https://github.com/emilykjensen/emilykjensen.github.io/blob/master/files/risk_field_poster.pdf) and [PPI conference](https://github.com/emilykjensen/emilykjensen.github.io/blob/master/files/PPI_poster.pdf)
   * [Read the pre-print here](https://arxiv.org/abs/2205.12722)
 * Paper submitted to Cyber-Physical Human Systems Workshop
 
