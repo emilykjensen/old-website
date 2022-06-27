@@ -42,9 +42,6 @@ Publications
 In Review
 ======
 * Journal paper submitted to Clinical Psychological Science
-* Paper submitted to Intelligent Transportation Systems Conference
-  * See related posters for [department research expo](https://github.com/emilykjensen/emilykjensen.github.io/blob/master/files/risk_field_poster.pdf) and [PPI conference](https://github.com/emilykjensen/emilykjensen.github.io/blob/master/files/PPI_poster.pdf)
-  * [Read the pre-print here](https://arxiv.org/abs/2205.12722)
 * Paper submitted to Cyber-Physical Human Systems Workshop
 
 
@@ -75,7 +72,8 @@ Service and Leadership
     * Served on travel awards committee and graduate housing advisory committee
   * Graduate Senator to CU Student Government (Fall 2018 - Spring 2019)
   * Director of Communications (Fall 2019 - Spring 2021)
-  * President of Engagement (Fall 2021 - Present)
+  * President of Engagement (Fall 2021 - Spring 2022)
+  * Chief of Staff (Fall 2022 - Present)
 * ICMI Conference
   * Webchair (2018)
 * EDM Conference
